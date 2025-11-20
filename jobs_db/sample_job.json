@@ -1,0 +1,37 @@
+[
+  {
+    "id": "job-1",
+    "title": "Python / ML Engineer",
+    "skills": ["python", "machine learning", "sql", "docker"],
+    "location": "Remote",
+    "description": "Build and deploy ML models, work with data pipelines and MLOps."
+  },
+  {
+    "id": "job-2",
+    "title": "Data Analyst",
+    "skills": ["excel", "data analysis", "sql"],
+    "location": "Bangalore",
+    "description": "Analyze business data, build dashboards and reports."
+  },
+  {
+    "id": "job-3",
+    "title": "Java Developer",
+    "skills": ["java", "sql"],
+    "location": "Chennai",
+    "description": "Backend development using Java and related frameworks."
+  },
+  {
+    "id": "job-4",
+    "title": "Frontend Developer",
+    "skills": ["javascript", "react"],
+    "location": "Hyderabad",
+    "description": "Build responsive web UIs using React and modern JS tooling."
+  },
+  {
+    "id": "job-5",
+    "title": "DevOps Engineer",
+    "skills": ["docker", "kubernetes", "aws"],
+    "location": "Remote",
+    "description": "Manage CI/CD, containers, and cloud infrastructure."
+  }
+]
